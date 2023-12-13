@@ -20,9 +20,5 @@ main:
 categories:
   - title: "Algorithm"
     url: /categories/algorithm/
-  - title: "Categories2"
-    url: /categories/categories2/
-  - title: "Categories3"
-    url: /categories/categories3/
-  - title: "Categories4"
-    url: /categories/categories4/
+  - title: "ETC"
+    url: /categories/etc/
